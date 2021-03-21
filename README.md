@@ -9,13 +9,13 @@ Following Technologies have been used to develop the app
 
 # How to run Backend 
 
-'''
+```
 Move inside /src/db/ and run 
 json-server --watch db.json --port 8000
-'''
+```
 
 # How to run frontend 
 
-'''
+```
 npm run start
-'''
+```
