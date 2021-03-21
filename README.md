@@ -1,4 +1,4 @@
-# Post Management App using React 
+# Post Management App using Redux Thunk
 
 ```
 Following Technologies have been used to develop the app
